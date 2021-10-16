@@ -1,0 +1,20 @@
+
+/* pharagraph */
+p{
+    display: inline-block;
+}
+
+
+#p-number1{
+	margin-right:10px; 
+}
+
+#p-number2{
+	margin-right:20px; 
+}
+
+#p-result{
+	margin-right:38px; 
+}
+
+
